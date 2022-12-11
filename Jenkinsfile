@@ -1,5 +1,4 @@
-@Library('pipeline_sharedlibrary'){
+@Library('pipeline_sharedlibrary')_
     stage('call'){
         sayHello 'anitha'
     }
-}
